@@ -6,7 +6,8 @@ import asyncio
 from datetime import datetime
 import pytz
 
-TOKEN = discordtoken  # Replace with your actual token
+TOKEN = discordtoken  
+
 CHANNEL_ID = 1244388639652446299
 CHANNEL_ID_2 = 1133382109986312283
 
